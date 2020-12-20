@@ -13,6 +13,7 @@ Three things we can conclude about about Kickstarter campaigns:
  Limitations of this data include lack of information for the long term success of these Kickstart campaigns.  It does not help answer the question on how long will the venture be successful after being initially funded by a Kickstarter.  Other limitations include the lack of regions per country which makes it be unable to determine if rural areas or cities have a higher percentage of being successful.
  
  Other possible tables/graphs that could be pulled from this data:
+ 
     1. A scatter chart that shows the average donation per campaign sub category to show which sub category received the highest average donation
     2. A line graph that shows aveerage finacial goal to hit per category,  which category usually asks for more funds?
     
